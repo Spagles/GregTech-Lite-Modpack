@@ -30,7 +30,7 @@ hash = "ff411842d4e69283a69608824be21c700f5eada5d75828bd0b9295a80093320d"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/QuestLines/1298608824.json"
-hash = "60d31c04d68825f89dfddaefeb98a9a69a524df8e455c19ea965a519f267b335"
+hash = "3f659f23ea49bfc17118e365eee113d39c6e6458104be8899b33fe35e519cc81"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/QuestLines/1349696291.json"
@@ -258,11 +258,11 @@ hash = "84420090d7d4a43e5583ccd13cc8e6f59a1f51bd58b6342215ccd5355dbbf341"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1052610336/1940363270.json"
-hash = "2e995c701a6e0dea53bf833127bcc75705da9117e4250d43ec52f07719cf6440"
+hash = "f5e0b1a55d8c6bf5f97dbfdf74b834a687811f38b911a9063cac0e844e39c03f"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1052610336/1958099300.json"
-hash = "ca33db100f215fc76ce860c6d3cf8196c10ca2338b2d687a3b6c2219b0709fc4"
+hash = "9f84505e0d0ade34a08a7c2dabaa0f36a47f62907330aead6f5ed69289d336bf"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1052610336/1961400618.json"
@@ -318,7 +318,7 @@ hash = "8aaf231dd42c441199b573bb44c1b954fa3ef0df4e5ad248d9905c0ee6f56751"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1052610336/352386416.json"
-hash = "f19d268233f92e06e1d8f1ce612205706564e22f99be4f55039e30064847ec8f"
+hash = "7f5dc98f3750300aacdacfb580ecc36d4b34f893a305d321ee828929eab5fec8"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1052610336/369071060.json"
@@ -474,7 +474,7 @@ hash = "28ecd139ac6454848e89ddf5c7f35da4788ff757e934f60aee413a907c822d84"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1121539277/1060124818.json"
-hash = "3067f97bc9e147145536bddb7542e383cff68243df9c645f2971359c6dc43680"
+hash = "956ffcac3a3e012ba3641ab8df1b8dcc2f8dd82529150752cf518456a7d54b5f"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1121539277/106777031.json"
@@ -486,7 +486,7 @@ hash = "633585753fbbfcbc16507c20e7dced4fb5d9c296d525801f8f1ac44a5b2d2fcb"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1121539277/1114136535.json"
-hash = "9999c825bead9df6eebbaa80d0eeb428964a2519b3f182d30ca4679f31084564"
+hash = "200cd973fc0d5ceb24be1f437a855e53750127363dcd040fa72df7133887784d"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1121539277/114279738.json"
@@ -502,7 +502,7 @@ hash = "a5658b78bba1d6649a1f90458543a0435830ed7f15e31f4d9eb16a3b8a25e6cb"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1121539277/1220286723.json"
-hash = "4397aeac979115afa93f1eab9be48f562222a7a9bb8ee4b747ce663f12ac81e8"
+hash = "98d19a9dad9607083478416eed2252547ceda6546241d0a79298f1ac903eff65"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1121539277/1288498615.json"
@@ -510,7 +510,7 @@ hash = "c687e7c4e199d81ef903339d052a5dcc6c28b0f43f69655f59bbfc7313452f45"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1121539277/1368139219.json"
-hash = "6c176f93c7c1f3b9b872d9d4ded19faf24331712f3fbf676c927d7ef104dad31"
+hash = "1e7a0d6c0310018c90a7771b1ba6273541aa4ba5959de6baf21516d48b060397"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1121539277/1538617102.json"
@@ -534,7 +534,7 @@ hash = "59cf501bb607ecaef7671c098dfb77253d6c2e6f75bdc3a99b23daea93a09899"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1121539277/165361007.json"
-hash = "567b2fdc603080b1f277a7f7dd6827a94231abeb9fffc7512e7f1e01e09fab04"
+hash = "abed2760b19ec7dd143edca9805bbbf12e04a552306ba35e3ba8bf58cf014fb1"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1121539277/165460843.json"
@@ -542,7 +542,7 @@ hash = "71774cc4b6a91f5fec2587743fbbe3e2c8135aaf3bf97e4b2ac1dd400ac8245a"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1121539277/165791622.json"
-hash = "f8ddc2c98461307d0f56d1e810ce385b3c59f5383ddd3a62bdd51c2f3bdb1a80"
+hash = "de1e489f6b81b4b3801b61576201f63f0322251d3830b2eb7d58bedf0bad49dd"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1121539277/1699594870.json"
@@ -566,7 +566,7 @@ hash = "f2bba2ad0c4ce2ddcb2c74c12796a75fef57e9d0d899994d87e4627eac0f4f8f"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1121539277/1917552849.json"
-hash = "05f820d758e9780a7d35266b50adf3595e246174d07a713afc8184c3850948fc"
+hash = "ac8d7d442a9d1f974e28ebbbf67a8a8298634c4ce184f75b7a4393df026c670e"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1121539277/1926964230.json"
@@ -598,7 +598,7 @@ hash = "f55e554da304a25426a6ce87c535d3f0a56af33a564324dd2e4d8e1a96585c4e"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1121539277/308877360.json"
-hash = "7c10dd034e8921b17fc7ebc66230e7d290ac1990744ddec59200efecb6044e3b"
+hash = "26a081596b888910f3aa9104503f6888bd37b2944e78b894e323a704d386346d"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1121539277/309239236.json"
@@ -606,7 +606,7 @@ hash = "a3b5ed8a1055f6ea1ee8e117a024c7f7ef998b28ba66f048c48eddd43d99259f"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1121539277/326203230.json"
-hash = "95cb3cc013eb6a1500a8fee1e9d9dab12d75b7686b97edc118ae472cf3522d05"
+hash = "5bafaceee23f3ee7c3449b2af0699862df3d2abcb00dbe8bfd023d719e6ad33f"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1121539277/365284284.json"
@@ -650,7 +650,7 @@ hash = "78a5badc67d56c38256636ac6f2d203269841287d5c06b9cef9648f778d8aea0"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1121539277/63436605.json"
-hash = "31fa5e8161fbab94c9a79941300577a5cd108d333781bc3b44374f900c2866de"
+hash = "065a18b401f34324b572ec43aad19b6b0f3e2fdee76829a08073c14ce612cc0a"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1121539277/65704285.json"
@@ -670,11 +670,11 @@ hash = "e69e66c96f216d999821dd1dd8318586e8f8a2c993e3f1b57df11ce04a145eae"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1121539277/835904145.json"
-hash = "3fbdbabfeef7e7d8485f052f571e8db28fe04a76d498960063a0ef13793a1780"
+hash = "fb66b2b8e309dee8e5446a18770d7ede6401605d8a924ba51e2c0f80bf802955"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1121539277/892806362.json"
-hash = "37d53cf4ff7ec423d43c5036b8e0b4dbc923183bc670f64a972b493e3ac555f5"
+hash = "e40559cfd0435dea75c2b044dede6f23bdf6617f2ff522c5416764b14fc8926a"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1121539277/910916973.json"
@@ -690,7 +690,7 @@ hash = "69188f05e0927e4ac838296bdf2e367eb7733d3a3721fdbff4135fa0d2d97bed"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1121539277/984714720.json"
-hash = "693edd8d8ac50067536548d49f1ca37d62f349516c416aed4fd72b13486317c6"
+hash = "8c02eb8c18bc42bd66cc4f56877c20b3c63195a693d0205fe78c71f81921b9da"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1298608824/1045118743.json"
@@ -1058,7 +1058,7 @@ hash = "93c8c64173fdcbffb84fa320f6534f449aee98cceef0fc72f38aa19e5c283c3c"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1868627010/1417240230.json"
-hash = "e1fccb06446e9fdc43f337301f6ef0499d8f7813379174759c5085938108f191"
+hash = "4eaa8a789b3f91b970c959f4c4c4703aa38385df0e7d0d1874c4fecac3d5abdb"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1868627010/1439863665.json"
@@ -1082,7 +1082,7 @@ hash = "c6b25fff0e7672f03010c4d0697f97ba42c0bbca8aaac95ccaffcc90dd9f6304"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1868627010/1601597336.json"
-hash = "0d6be5b10f869e8c953e4062531f19c7e67eff1f5e4635294174319fe943b2dd"
+hash = "4778e61bd3c2bae50bf062517b948bb1781b0fc001af1a1aefd77f39082c59b6"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1868627010/1621177673.json"
@@ -1090,7 +1090,7 @@ hash = "a1b491e0d0fd893237c2a39e323c6deb7e5c017ba4218b5b691bc5af17ae1362"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1868627010/1651676736.json"
-hash = "62aa9d92afac760d691559db08737d493deb70491e5875977740597be5d6be16"
+hash = "4a4a131d21c14caa2df0c3d3323f04996221bfc007873d27b5803cf8fe455fae"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1868627010/1658935733.json"
@@ -1146,11 +1146,11 @@ hash = "cc33a2858b7144323eb714f1ca634af87b840f5707e2b00a0347354d9f30d539"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1868627010/2077646469.json"
-hash = "645df2c4e97a2eb8d515b5989be41d53f9425cec5cacbbdf2775ef3dba2f032a"
+hash = "439d596fa10954777714bd30eb9db51631c7487c3ae019d5de163ff21b6233d6"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1868627010/2080736484.json"
-hash = "12ddd2e63af4ae13fca299708221dc3cd5de438dc1b8ad1f38d2146da143f513"
+hash = "d7c58d75ce2dfa4180653ea7b0b8137a7aa599b6d766e780eec8112ff7381992"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1868627010/2111386174.json"
@@ -1214,11 +1214,11 @@ hash = "0079d70bf450b6c09c45d705001af535bb2792b6f3c5926eab4baa8fbb853417"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1868627010/703566290.json"
-hash = "002c0764407fd109764c272352f72b580c28bced9ea70d94bdb58a5981dfd692"
+hash = "c5eb8f785cb9a335285ead1144206c498231d1b37bf1e2705ad23c73890db308"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1868627010/721787158.json"
-hash = "3b02a0d16ff699279851ef98d36e5f6a3fe4617327fc20d07376daed0a54e402"
+hash = "e9e324e0a7b98bdbdd0611d08ce7266cbffe767a01cdc3a5c7307658b11ee61d"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1868627010/729670294.json"
@@ -1230,11 +1230,11 @@ hash = "d9601fdf5f37f7ad9d512f2df4fc55f60c0f13131d2c84b160c71231d6d0a068"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1868627010/756445674.json"
-hash = "e3c199faa6f540315dccc58938348633041b4380745a3512ae620a2c2e2434b2"
+hash = "013adc82306bc16a73b7aac5964d777c19b4bb3c55fa67e40172b00dac6e0cd6"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1868627010/8079477.json"
-hash = "2340d0f2691c526a2bd48b892c5f0ccc834970f783d4250dba6d791dce92eb7a"
+hash = "dab10c46f1b58eec27a9776330502e686f0d514538c108368624d08a43f606fa"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1868627010/844939902.json"
@@ -1302,7 +1302,7 @@ hash = "8a7b1dde73b010f78ee16e3d386b37a8f61a8835f5bf653395a379e7c431eddc"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/2031103779/1530782806.json"
-hash = "357a5a6e9263950704fe97b1b359c507482683bcaddc48acb8af429ac53d04d1"
+hash = "8225551ba501f9f56d94da9b46dbb1e4b291172147d95042574d7ab72e4ad10a"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/2031103779/1546880750.json"
@@ -1558,7 +1558,7 @@ hash = "e9cea51738ddad03c6e34c2aaeeb91a3d37cb1d01747e9ab466ead72304c557a"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/343719817/1621376472.json"
-hash = "a0345eebc443773bbb8b8d8c99446a3ba036b7a96fc70423192bf60a06a449cd"
+hash = "3fcb29de10c12711c178a29723ad578999a7874aab83e36382588ec007ea2596"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/343719817/1684901870.json"
@@ -1578,11 +1578,11 @@ hash = "f41771302c14269bc2e9042ef25f77fbfbc854240b9fd53e27df65f5efd895d7"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/343719817/1775700618.json"
-hash = "088114944164f7df33f702acc386bc69bd2e2ae554316f0dfd527349d534c251"
+hash = "62e6988941de655af826e107b74fbbeff6281d9c2a39497ffb020d09d87285e8"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/343719817/1912315942.json"
-hash = "35828b93f9c2f016d829245d85ec4c549c865fc67c3a66ba6b9e65bb0d80640d"
+hash = "36aa4f83ae0ba8d30cb09a99fa687734ae02ccbc56f3017d7c6320282952a785"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/343719817/191891218.json"
@@ -1638,7 +1638,7 @@ hash = "ba03e2614cc943e381c823bbb9364aca5e3b0aad8adfbf6024e572a4b6cdf1c0"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/343719817/415631972.json"
-hash = "5420444bf6fc10bc8872c1ea032ad21374c4dfdb437cf193db1fcd9b412fa31a"
+hash = "5422f1e96f82bdb034d2756baf66923272fe168945fec2bfd46599b935791206"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/343719817/436838076.json"
@@ -1814,7 +1814,7 @@ hash = "f4e662ad69e357f832edfff679433c52dbe48f05c7d41e6554fcf03ebd444129"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/391308061/1631763710.json"
-hash = "15754bef5d8a9f3563523eb21c5039710765f48cf05456602fc6ae32f28a70a7"
+hash = "ef7a465d7ddefb292159c4244a74daba239ca5bc0542aa6cf010e66d500fffb6"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/391308061/1633655750.json"
@@ -2086,7 +2086,7 @@ hash = "3b4f24052aae9d78c44d65fb7c7c4baf8320f8396f6a39c969a5ea7dfe30f84b"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/585069616/376456340.json"
-hash = "48d850e4d04fab8e29531793b1bd1ac02cdb177effc59f3f5e4858f7b58c8be9"
+hash = "abd2a709f4271c5ca251938e38e02823f52ed41ea1d156dc6ea0a73431090851"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/585069616/379067085.json"
@@ -2338,7 +2338,7 @@ hash = "177cb6281d4a1b5bdbf15b5534f18297114dd6ebf4afa7c6263c785797fa27b3"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/1936066148.json"
-hash = "d0e4895278f9960c75fdacca2bc528a4cdb6cea5a0e6b8352d96c1c0b28e82c3"
+hash = "08c562701b2a933e2586759e17047f73c10309581d448b26f013b002b9370f6c"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/295458084.json"
@@ -2753,6 +2753,10 @@ file = "config/morfonica.cfg"
 hash = "820acaaf843b6720ded49a0da244f57bc4c68ee758a05fa521e7e940a3917160"
 
 [[files]]
+file = "config/obscuria/obscure_tooltips-client.cfg"
+hash = "1d4e586b29c81a4e23f9bc842333b5a4648510c31062da1ef91f27e0e242aad3"
+
+[[files]]
 file = "config/pickupnotifier.cfg"
 hash = "513bda857945ca222782a6a76e1ceda47c7a45da49f4aaaaaffa7754617708e4"
 
@@ -2814,7 +2818,7 @@ hash = "830bd25835d7de559257f7a312081fcfab880fdf0f3dffcc1d2b6b60feb5c725"
 
 [[files]]
 file = "groovy/loader/recipe/AppliedEnergistics2.groovy"
-hash = "fb54ce8f0a85411c3bef415f7e2363d69a763eb6a65ba77aca68ec3964a9dc90"
+hash = "d440d948f2b883917b4bbd1c7fd87318b1b15450519591c59cf03049da28f7f8"
 
 [[files]]
 file = "groovy/loader/recipe/BetterBuildersWands.groovy"
@@ -2975,7 +2979,7 @@ metafile = true
 
 [[files]]
 file = "mods/bubbles-a-baubles-fork.pw.toml"
-hash = "e62029cd0cf6882f63dc83a48807604ddab9bf3f54c332a2cb3e13982aa06871"
+hash = "5c30108907fd9296e534e4d35dcacb7f6450a29a6090c36ae711bd7c7c96de3c"
 metafile = true
 
 [[files]]
@@ -3124,7 +3128,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtlitecore-1.0.0.jar"
-hash = "2031f1b393e0a2e81aac74802e66482d5647dd1cea692f7b3fccc092e6827d66"
+hash = "2039c8030264379f31595751ca5cd7633251ebf04158e7c49458e6e09c99eb73"
 
 [[files]]
 file = "mods/had-enough-characters.pw.toml"
@@ -3258,6 +3262,11 @@ metafile = true
 [[files]]
 file = "mods/neonium.pw.toml"
 hash = "3ec598f42db8381f9df050de4ffc6d9214355ff80c95fa32ea970591e9d8671f"
+metafile = true
+
+[[files]]
+file = "mods/obscure-tooltips.pw.toml"
+hash = "267e956fd1d5ae02371ab50aec2569a33db942edbc06273eab14704d6c5f894a"
 metafile = true
 
 [[files]]

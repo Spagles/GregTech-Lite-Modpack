@@ -11,7 +11,7 @@
   ],
   "properties:10": {
     "betterquesting:10": {
-      "desc:8": "No Description",
+      "desc:8": "No Description\n\n§3这台机器还解锁了微型处理器的SoC配方，就像简易SoC那样，需要从刻蚀对应的晶圆并切割成晶片开始。",
       "frame:8": "HEXAGON90",
       "icon:10": {
         "Count:3": 1,

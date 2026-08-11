@@ -1,0 +1,43 @@
+{
+  "preRequisiteTypes:7": [
+    2,
+    2,
+    2
+  ],
+  "preRequisites:11": [
+    1308860769,
+    334492965,
+    115859539
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "No Description\n\n§3这台机器还解锁了集成处理器的SoC配方，如果你在EV阶段制作了SoC，那么可以直接使用。",
+      "frame:8": "HEXAGON90",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 639,
+        "id:8": "gregtech:mte"
+      },
+      "name:8": "§d量子位电路组装"
+    }
+  },
+  "questID:3": 1779613041,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    },
+    "1:10": {
+      "index:3": 1,
+      "optional:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 639,
+          "id:8": "gregtech:mte"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

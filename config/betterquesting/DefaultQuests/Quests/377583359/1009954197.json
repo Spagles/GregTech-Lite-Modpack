@@ -1,0 +1,41 @@
+{
+  "preRequisiteTypes:7": [
+    0,
+    2
+  ],
+  "preRequisites:11": [
+    153924098,
+    115859539
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "No Description",
+      "frame:8": "HEXAGON90",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 249,
+        "id:8": "gregtech:mte"
+      },
+      "name:8": "§c硅基绞肉锯"
+    }
+  },
+  "questID:3": 1009954197,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    },
+    "1:10": {
+      "index:3": 1,
+      "optional:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 249,
+          "id:8": "gregtech:mte"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

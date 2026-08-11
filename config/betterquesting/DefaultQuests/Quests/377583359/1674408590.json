@@ -1,0 +1,39 @@
+{
+  "preRequisiteTypes:7": [
+    2
+  ],
+  "preRequisites:11": [
+    1526527030
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "想要继续处理§a铂族金属处理§r中的§c稀有金属混合物§r，需要使用§1IV§r级的§6焙烧炉§r。",
+      "frame:8": "HEXAGON90",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 172,
+        "id:8": "gtlitecore:mte"
+      },
+      "name:8": "§c极限燃烧！"
+    }
+  },
+  "questID:3": 1674408590,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    },
+    "1:10": {
+      "index:3": 1,
+      "optional:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 172,
+          "id:8": "gtlitecore:mte"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

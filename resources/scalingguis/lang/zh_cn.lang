@@ -55,7 +55,7 @@ scalingguis.config.main.guiscale.tooltip=Minecraft主界面缩放比例
 scalingguis.config.main.hudscale.tooltip=自定义HUD渲染缩放比例。
 scalingguis.config.main.tooltipscale.tooltip=自定义工具提示栏渲染缩放比例。
 scalingguis.config.main.logclassnames.tooltip=在日志中输出打开的界面类名。
-scalingguis.config.main.persistentlog.tooltip=跟踪配置文件中打开的界面类名。/n启动Minecraft时将重新加载被标记的界面类。
+scalingguis.config.main.persistentlog.tooltip=跟踪配置文件中打开的界面类名。\n启动Minecraft时将重新加载被标记的界面类。
 
 # Config Entry Tooltips ----- Individual
 scalingguis.config.individual.title.tooltip=自定义单一界面的缩放设置菜单。

@@ -1447,52 +1447,52 @@ metaitem.crystal.raw_chip.name=晶体芯片原料部件
 metaitem.crystal.raw_chip.tooltip=待处理部分晶体原料
 
 metaitem.circuit.advanced_integrated.name=高级集成电路
-metaitem.circuit.advanced_integrated.tooltip=更小也更强\n§6HV级电路
+metaitem.circuit.advanced_integrated.tooltip=更小也更强/n§6HV级电路
 
 metaitem.circuit.processor.name=集成处理器
-metaitem.circuit.processor.tooltip=惊人的计算速度！\n§eMV级电路
+metaitem.circuit.processor.tooltip=惊人的计算速度！/n§eMV级电路
 metaitem.circuit.assembly.name=集成处理器集群
-metaitem.circuit.assembly.tooltip=惊人的计算速度！\n§eHV级电路
+metaitem.circuit.assembly.tooltip=惊人的计算速度！/n§eHV级电路
 metaitem.circuit.workstation.name=工作站
-metaitem.circuit.workstation.tooltip=惊人的计算速度！\n§eEV级电路
+metaitem.circuit.workstation.tooltip=惊人的计算速度！/n§eEV级电路
 metaitem.circuit.mainframe.name=电脑主机
-metaitem.circuit.mainframe.tooltip=惊人的计算速度！\n§eIV级电路
+metaitem.circuit.mainframe.tooltip=惊人的计算速度！/n§eIV级电路
 
 metaitem.circuit.nano_processor.name=纳米处理器
-metaitem.circuit.nano_processor.tooltip=小到极限\n§bHV级电路
+metaitem.circuit.nano_processor.tooltip=小到极限/n§bHV级电路
 metaitem.circuit.nano_assembly.name=纳米处理器集群
-metaitem.circuit.nano_assembly.tooltip=小到极限\n§bEV级电路
+metaitem.circuit.nano_assembly.tooltip=小到极限/n§bEV级电路
 metaitem.circuit.nano_computer.name=纳米超级计算机
-metaitem.circuit.nano_computer.tooltip=小到极限\n§bIV级电路
+metaitem.circuit.nano_computer.tooltip=小到极限/n§bIV级电路
 metaitem.circuit.nano_mainframe.name=纳米电脑主机
-metaitem.circuit.nano_mainframe.tooltip=小到极限\n§bLuV级电路
+metaitem.circuit.nano_mainframe.tooltip=小到极限/n§bLuV级电路
 
 metaitem.circuit.quantum_processor.name=量子处理器
-metaitem.circuit.quantum_processor.tooltip=量子计算的时代到来了！\n§aEV级电路
+metaitem.circuit.quantum_processor.tooltip=量子计算的时代到来了！/n§aEV级电路
 metaitem.circuit.quantum_assembly.name=量子处理器集群
-metaitem.circuit.quantum_assembly.tooltip=量子计算的时代到来了！\n§aIV级电路
+metaitem.circuit.quantum_assembly.tooltip=量子计算的时代到来了！/n§aIV级电路
 metaitem.circuit.quantum_computer.name=量子超级计算机
-metaitem.circuit.quantum_computer.tooltip=量子计算的时代到来了！\n§aLuV级电路
+metaitem.circuit.quantum_computer.tooltip=量子计算的时代到来了！/n§aLuV级电路
 metaitem.circuit.quantum_mainframe.name=量子电脑主机
-metaitem.circuit.quantum_mainframe.tooltip=量子计算的时代到来了！\n§aZPM级电路
+metaitem.circuit.quantum_mainframe.tooltip=量子计算的时代到来了！/n§aZPM级电路
 
 metaitem.circuit.crystal_processor.name=晶体处理器
-metaitem.circuit.crystal_processor.tooltip=得益于晶体蚀刻技术\n§9IV级电路
+metaitem.circuit.crystal_processor.tooltip=得益于晶体蚀刻技术/n§9IV级电路
 metaitem.circuit.crystal_assembly.name=晶体处理器集群
-metaitem.circuit.crystal_assembly.tooltip=得益于晶体蚀刻技术\n§9LuV级电路
+metaitem.circuit.crystal_assembly.tooltip=得益于晶体蚀刻技术/n§9LuV级电路
 metaitem.circuit.crystal_computer.name=晶体超级计算机
-metaitem.circuit.crystal_computer.tooltip=得益于晶体蚀刻技术\n§9ZPM级电路
+metaitem.circuit.crystal_computer.tooltip=得益于晶体蚀刻技术/n§9ZPM级电路
 metaitem.circuit.crystal_mainframe.name=晶体电脑主机
-metaitem.circuit.crystal_mainframe.tooltip=得益于晶体蚀刻技术\n§9UV级电路
+metaitem.circuit.crystal_mainframe.tooltip=得益于晶体蚀刻技术/n§9UV级电路
 
 metaitem.circuit.wetware_processor.name=湿件处理器
-metaitem.circuit.wetware_processor.tooltip=它似乎在盯着你看\n§4LuV级电路
+metaitem.circuit.wetware_processor.tooltip=它似乎在盯着你看/n§4LuV级电路
 metaitem.circuit.wetware_assembly.name=湿件处理器集群
-metaitem.circuit.wetware_assembly.tooltip=可以用它来运行Minecraft\n§4ZPM级电路
+metaitem.circuit.wetware_assembly.tooltip=可以用它来运行Minecraft/n§4ZPM级电路
 metaitem.circuit.wetware_computer.name=湿件超级计算机
-metaitem.circuit.wetware_computer.tooltip=肉体与机器的终极结合\n§4UV级电路
+metaitem.circuit.wetware_computer.tooltip=肉体与机器的终极结合/n§4UV级电路
 metaitem.circuit.wetware_mainframe.name=湿件电脑主机群
-metaitem.circuit.wetware_mainframe.tooltip=有机与无机的统一\n§4UHV级电路
+metaitem.circuit.wetware_mainframe.tooltip=有机与无机的统一/n§4UHV级电路
 
 metaitem.stem_cells.tooltip=原生生物智能
 
